@@ -15,3 +15,5 @@ Designed to provide an engaging and user-friendly experience, the app allows use
 - **Flutter:** For cross-platform development (Android & iOS).  
 - **Dart:** For business logic and functionality.
 - ![image](https://github.com/user-attachments/assets/0aa1057c-afb0-4086-8071-5d8e1accb576)
+- ![image](https://github.com/user-attachments/assets/c094925e-5e48-4282-8971-06aaf837431b)
+
